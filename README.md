@@ -1,4 +1,4 @@
-# ElleHacks2020 - Be Mindful
+# ElleHacks2020 - Bee Mindful
 
 A year of cell phone use emits more carbon dioxide than two round trip flights. More than 19,000 tons of CO2 is emitted by cell-phone users worldwide on a daily basis; this accounts for 7,000 Gigatons per year! By encouraging an internet-addicted generation to re-engage with the world around them through limiting network access in a gamified manner, Bee Mindful works for net-zero emissions and improved mental health amongst youth.
 
