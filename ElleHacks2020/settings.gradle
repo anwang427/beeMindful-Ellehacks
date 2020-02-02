@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Elle Hacks 2020'
