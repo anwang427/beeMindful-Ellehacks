@@ -6,6 +6,5 @@ Bee Mindful operates on a multi-dimensional financial model. A virtual garden ca
 
 ## Design - Sketch
 
-![Bee Mindful Deck]
-(https://i.imgur.com/vTBP2MD.png)
+![Bee Mindful Deck](https://i.imgur.com/vTBP2MD.png)
 
